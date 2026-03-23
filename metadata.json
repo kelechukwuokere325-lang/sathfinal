@@ -1,0 +1,8 @@
+{
+  "name": "Remix: PayPulse Nigeria",
+  "description": "A comprehensive payroll management system designed for Nigerian SMEs to automate tax computations, pension remittances, and compliance while preventing ghost worker fraud.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
